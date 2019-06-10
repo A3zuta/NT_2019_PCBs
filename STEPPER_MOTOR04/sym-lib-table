@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name STEPPER_MOTOR04-rescue)(type Legacy)(uri ${KIPRJMOD}/STEPPER_MOTOR04-rescue.lib)(options "")(descr ""))
+)

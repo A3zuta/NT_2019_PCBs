@@ -1,0 +1,9 @@
+Reference Type, Quantity, Reference, Value, Footprint, Datasheet
+"C","1","C1,","C","_local_TMD:C_Rect_L07.0_W3.5_P05.0",""
+"C","1","C2,","CP","_local_TMD:C_Radial_D06.3_L11.0_P2.5",""
+"D","2","D2,D3,","LED","LEDs_:LED_D3.0mm",""
+"P","2","P3,P2,","CONN_01X06","Connectors_JST_:JST_XH_S06B-XH-A_06x2.50mm_Angled",""
+"P","1","P1,","PWR","Connectors_JST_:JST_XH_S02B-XH-A_02x2.50mm_Angled",""
+"R","1","R2,","330","_local_TMD:myR",""
+"R","1","R3,","1k","_local_TMD:myR",""
+"U","1","U1,","TA7774P/PG","_local_TMD:IC_DIP-16_300_ELL",""

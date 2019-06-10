@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Control_5VOUT_ElectrocityManager-rescue)(type Legacy)(uri ${KIPRJMOD}/Control_5VOUT_ElectrocityManager-rescue.lib)(options "")(descr ""))
+)

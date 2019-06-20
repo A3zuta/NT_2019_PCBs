@@ -1,4 +1,4 @@
-16186584209957088
+16195954246987802
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49490,6 +49490,13 @@ LQ_Relay
 5
 5
 Mizz_lib
+L_Taiyo-Yuden_NR-50xx_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-50xx, 4.9mmx4.9mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Mizz_lib
 MCW103
 
 
@@ -49512,6 +49519,13 @@ Mini_Monster
 0
 Mizz_lib
 Mizuta_Name
+
+
+0
+0
+0
+Mizz_lib
+MonsterBall_10x10_FCu
 
 
 0
@@ -49629,6 +49643,13 @@ OSTBABS4C2B
 0
 6
 6
+Mizz_lib
+PackLink_silk_10.0x9.1
+
+
+0
+0
+0
 Mizz_lib
 Pikatyuu_15x15
 
@@ -49896,6 +49917,13 @@ resistor 0805
 2
 2
 Mizz_lib
+R_2812
+Resistor SMD 2812, reflow soldering, Vishay (see WSL-VISHAY.PDF)
+resistor 2812
+0
+2
+2
+Mizz_lib
 Si8900
 16-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
 SOIC 1.27
@@ -49923,6 +49951,13 @@ SOD-123
 0
 2
 2
+Mizz_lib
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
 Mizz_lib
 SOIC-8_3.9x4.9mm_Pitch1.27mm
 8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
@@ -50177,6 +50212,13 @@ XA_4T
 4
 Mizz_lib
 XT60_F
+
+
+0
+2
+2
+Mizz_lib
+XT60_M
 
 
 0

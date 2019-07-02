@@ -1,4 +1,4 @@
-16199100452295342
+16203790172718425
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49644,6 +49644,13 @@ Origin_Logo
 0
 0
 Mizz_lib
+OSL10321-Lx
+
+
+0
+10
+10
+Mizz_lib
 OSRB38C9AA
 
 
@@ -49764,6 +49771,13 @@ PiOtyu_silk_21.3x6.8
 0
 Mizz_lib
 Pochama_15x15_silk
+
+
+0
+0
+0
+Mizz_lib
+Pochama_moji_12.9x3.8_silk
 
 
 0
@@ -49902,6 +49916,13 @@ RPA60-24xxSFW
 0
 6
 6
+Mizz_lib
+RP_KIT_LOGO_10x10_silk
+
+
+0
+0
+0
 Mizz_lib
 RP_KIT_Logo_15.0x15.0
 

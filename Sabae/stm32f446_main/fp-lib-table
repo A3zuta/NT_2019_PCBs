@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name stm32f446_main)(type KiCad)(uri C:/Users/3Zuta/OneDrive/デスクトップ/Ki-CAD/工大祭/main/stm32f446_main/stm32f446_main)(options "")(descr ""))
+)
